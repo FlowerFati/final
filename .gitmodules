@@ -1,0 +1,3 @@
+[submodule "frontreact"]
+	path = frontreact
+	url = https://github.com/FlowerFati/GenWeb.git
